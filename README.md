@@ -23,18 +23,22 @@
 <!-- Add screenshots of the app -->
 <h2>Screenshots:</h2>
 
+<!-- Add screenshots of the app -->
+<h2>Screenshots:</h2>
+
 <!-- Fit Boy Screenshot -->
-<p align="center">
-  <img alt="Fit Boy" src="https://github.com/your-repo/raw/master/BMICalculator/screenshots/fitBoy.png" width="300">
-</p>
+<div align="center">
+  <img alt="Fit Boy" src="https://github.com/BMICalculator/raw/main/BMICalculator/screenshots/fitBoy.png" width="300">
+</div>
 
 <!-- Main Interface Screenshot -->
-<p align="center">
-  <img alt="Main Interface" src="https://github.com/your-repo/raw/master/BMICalculator/screenshots/mainInterface.png" width="300">
-</p>
+<div align="center">
+  <img alt="Main Interface" src="https://github.com/BMICalculator/raw/main/BMICalculator/screenshots/mainInterface.png" width="300">
+</div>
 
 <!-- Overweight Boy Screenshot -->
-<p align="center">
-  <img alt="Overweight Boy" src="https://github.com/your-repo/raw/master/BMICalculator/screenshots/boy_overweight.png" width="300">
-</p>
+<div align="center">
+  <img alt="Overweight Boy" src="https://github.com/BMICalculator/raw/main/BMICalculator/screenshots/boy_overweight.png" width="300">
+</div>
+
 
