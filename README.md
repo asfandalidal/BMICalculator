@@ -24,11 +24,17 @@
 <h2>Screenshots:</h2>
 
 <!-- Fit Boy Screenshot -->
-<img alt="Fit Boy" src="https://github.com/your-repo/raw/master/app/src/main/res/drawable/fitBoy.png" width="300">
+<p align="center">
+  <img alt="Fit Boy" src="https://github.com/your-repo/raw/master/BMICalculator/screenshots/fitBoy.png" width="300">
+</p>
 
 <!-- Main Interface Screenshot -->
-<img alt="Main Interface" src="https://github.com/your-repo/raw/master/app/src/main/res/drawable/mainInterface.png" width="300">
+<p align="center">
+  <img alt="Main Interface" src="https://github.com/your-repo/raw/master/BMICalculator/screenshots/mainInterface.png" width="300">
+</p>
 
-<!-- Overweight Girl Screenshot -->
-<img alt="Overweight Girl" src="https://github.com/your-repo/raw/master/app/src/main/res/drawable/boy_overweight.png" width="300">
+<!-- Overweight Boy Screenshot -->
+<p align="center">
+  <img alt="Overweight Boy" src="https://github.com/your-repo/raw/master/BMICalculator/screenshots/boy_overweight.png" width="300">
+</p>
 
