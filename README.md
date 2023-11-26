@@ -20,3 +20,15 @@
 
 <h3>Clear Results:</h3>
 <p>Presentation of BMI and health category in a clear and understandable format.</p>
+<!-- Add screenshots of the app -->
+<h2>Screenshots:</h2>
+
+<!-- Fit Boy Screenshot -->
+<img alt="Fit Boy" src="https://github.com/your-repo/raw/master/app/src/main/res/drawable/fitBoy.png" width="300">
+
+<!-- Main Interface Screenshot -->
+<img alt="Main Interface" src="https://github.com/your-repo/raw/master/app/src/main/res/drawable/mainInterface.png" width="300">
+
+<!-- Overweight Girl Screenshot -->
+<img alt="Overweight Girl" src="https://github.com/your-repo/raw/master/app/src/main/res/drawable/boy_overweight.png" width="300">
+
