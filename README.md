@@ -20,25 +20,17 @@
 
 <h3>Clear Results:</h3>
 <p>Presentation of BMI and health category in a clear and understandable format.</p>
-<!-- Add screenshots of the app -->
-<h2>Screenshots:</h2>
-
-<!-- Add screenshots of the app -->
-<h2>Screenshots:</h2>
-
+<!-- Main Interface Screenshot -->
+<h3>Screen shots:</h3>
+<div align="center">
+  <img alt="Main Interface" src="https://github.com/asfandalidal/BMICalculator/blob/master/screenshots/mainInterface.png" width="300">
+</div>
 <!-- Fit Boy Screenshot -->
 <div align="center">
-  <img alt="Fit Boy" src="https://github.com/BMICalculator/raw/main/BMICalculator/screenshots/fitBoy.png" width="300">
+  <img alt="Fit Boy" src="https://github.com/asfandalidal/BMICalculator/blob/master/screenshots/fitBoy.png" width="300">
 </div>
 
-<!-- Main Interface Screenshot -->
+
 <div align="center">
-  <img alt="Main Interface" src="https://github.com/BMICalculator/raw/main/BMICalculator/screenshots/mainInterface.png" width="300">
+  <img alt="Overweight Boy" src="https://github.com/asfandalidal/BMICalculator/blob/master/screenshots/overWeightgirl.png" width="300">
 </div>
-
-<!-- Overweight Boy Screenshot -->
-<div align="center">
-  <img alt="Overweight Boy" src="https://github.com/BMICalculator/raw/main/BMICalculator/screenshots/boy_overweight.png" width="300">
-</div>
-
-
